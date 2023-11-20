@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224572393117",
+    "project_id": "walkie-taklie-7dcc1",
+    "storage_bucket": "walkie-taklie-7dcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224572393117:android:3d775ef86d6e6da62eb674",
+        "android_client_info": {
+          "package_name": "com.example.walkie_taklie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADtm1Oq829uGOTcDaE1EUU9Sk1uPpVQTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
